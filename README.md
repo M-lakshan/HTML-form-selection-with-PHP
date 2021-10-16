@@ -1,0 +1,2 @@
+# HTML-form-selection-with-PHP
+I've created a form selection area that retrieves data from DB through a while loop.  In a previous time I set this selection options to be selected according to retrieved data but when I used the regular method on this while-loop-selection it does not give me an output, or an error. I want to make this to output the data as a regular selection that connected to a DB.
